@@ -1,1 +1,29 @@
-﻿
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi blog interesante</title>
+    <link>https://barrydevv.github.io/blog/</link>
+    <description>Mis artículos interesantes más recientes</description>
+    <item>
+      <title>Artículo 3</title>
+      <link>https://barrydevv.github.io/blog/articulo3.html</link>
+      <guid>articulo 3</guid>
+      <pubDate> 17 ABRIL 2019 13:20:00 GMT</pubDate>
+      <description>Mi último artículo</description>
+   </item>
+   <item>
+     <title>Artículo 2</title>
+     <link>https://barrydevv.github.io/blog/articulo2.html</link>
+     <guid>ARTICULO</guid>
+     <pubDate>17 ABRIL 2019 13:20:00 GMT</pubDate>
+     <description>Mi segundo artículo.</description>
+   </item>
+   <item>
+     <title>Artículo 1</title>
+       <link>https://barrydevv.github.io/blog/articulo3.html</link>
+       <guid> ARTICULOS</guid>
+       <pubDate>17 ABRIL 2019 13:20:00 GMT</pubDate>
+       <description>Mi primer artículo.</description>
+   </item>
+</channel>
+</rss>
