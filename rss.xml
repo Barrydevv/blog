@@ -5,24 +5,38 @@
     <link>https://barrydevv.github.io/blog/</link>
     <description>Mis artículos interesantes más recientes</description>
     <item>
-      <title>Artículo 3</title>
-      <link>https://barrydevv.github.io/blog/articulo3.html</link>
+      <title>Artículo 5</title>
+      <link>https://barrydevv.github.io/blog/articulo5.html</link>
       <guid>articulo 3</guid>
       <pubDate> 17 ABRIL 2019 13:20:00 GMT</pubDate>
       <description>Mi último artículo</description>
    </item>
    <item>
-     <title>Artículo 2</title>
-     <link>https://barrydevv.github.io/blog/articulo2.html</link>
+     <title>Artículo42</title>
+     <link>https://barrydevv.github.io/blog/articulo4.html</link>
      <guid>ARTICULO</guid>
-     <pubDate>17 ABRIL 2019 13:20:00 GMT</pubDate>
-     <description>Mi segundo artículo.</description>
+     <pubDate>21 ABRIL 2019 13:20:00 GMT</pubDate>
+     <description>Mi cuarto artículo.</description>
    </item>
    <item>
-     <title>Artículo 1</title>
+     <title>Artículo 3</title>
        <link>https://barrydevv.github.io/blog/articulo3.html</link>
        <guid> ARTICULOS</guid>
-       <pubDate>17 ABRIL 2019 13:20:00 GMT</pubDate>
+       <pubDate>21 ABRIL 2019 13:20:00 GMT</pubDate>
+       <description>Mi tercer artículo.</description>
+   </item>
+     <item>
+     <title>Artículo 2</title>
+       <link>https://barrydevv.github.io/blog/articulo2.html</link>
+       <guid> ARTICULOS</guid>
+       <pubDate>21 ABRIL 2019 13:20:00 GMT</pubDate>
+       <description>Mi segundo artículo.</description>
+   </item>
+     <item>
+     <title>Artículo 1</title>
+       <link>https://barrydevv.github.io/blog/articulo1.html</link>
+       <guid> ARTICULOS</guid>
+       <pubDate>21 ABRIL 2019 13:20:00 GMT</pubDate>
        <description>Mi primer artículo.</description>
    </item>
 </channel>
